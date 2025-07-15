@@ -18,7 +18,6 @@ python train.py
 
 ## 介绍
 
-- 数据集在data文件里，直接使用的arrow文件，csv文件是方便查看的
 - train.py为训练代码，训练结果会保存在results文件夹里
 - evalute.py为评估代码
 - transform.py是可以将数据集转换为csv文件方便查看
